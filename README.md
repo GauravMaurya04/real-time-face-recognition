@@ -37,7 +37,7 @@ Run `face_taker.py` to capture training images:
 python src/face_taker.py
 ```
 - Enter your name when prompted
-- :rotating_light: The script captures 120 images of your face. Make sure to have a good lighting and move your head around to capture different angles.
+- :rotating_light: The script captures 120 images of your face. Make sure to have a good lighting and move your head around to capture different angles
 - Keep your face centered in the frame
 - Images are saved in the `images` folder
 - Your name and ID are stored in `names.json`
@@ -87,3 +87,4 @@ python src/face_recognizer.py
 ```
 
 
+Enjoy!!
